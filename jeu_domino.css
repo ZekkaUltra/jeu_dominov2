@@ -1,0 +1,119 @@
+body {
+    background-color: green;
+}
+#mode2joueurs {
+    display: none; 
+}
+#mode3joueurs {
+    display: none;
+}
+#mode4joueurs {
+    display: none;
+}
+#zone1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90px;
+    height: 270px;
+    background-color: gray;
+    border: 3px solid black;
+    border-radius: 15px;
+    position: absolute;
+    top: 150px;
+    left: 0px;
+    
+}
+#zone1 img {
+    width: 20%;
+    height: auto;
+    transform: rotate(90deg);
+}
+#zone2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90px;
+    height: 270px;
+    background-color: gray;
+    border: 3px solid black;
+    border-radius: 15px;
+    position: absolute;
+    top: 150px;
+    right: 0px;
+}
+#zone2 img {
+    width: 20%;
+    height: auto;
+    transform: rotate(90deg);
+}
+#zone3 {
+    width: 270px;
+    height: 90px;
+    background-color: gray;
+    border: 3px solid black;
+    border-radius: 15px;
+    position: absolute;
+    top: 0px;
+    left: 450px;
+}
+#zone4 {
+    width: 90px;
+    height: 270px;
+    background-color: gray;
+    border: 3px solid black;
+    border-radius: 15px;
+    position: absolute;
+    top: 150px;
+    right: 0px;
+}
+#zone5 {
+    width: 90px;
+    height: 270px;
+    background-color: gray;
+    border: 3px solid black;
+    border-radius: 15px;
+    position: absolute;
+    top: 150px;
+    left: 0px;
+}
+#zone6 {
+    width: 270px;
+    height: 90px;
+    background-color: gray;
+    border: 3px solid black;
+    border-radius: 15px;
+    position: absolute;
+    top: 0px;
+    left: 450px;
+}
+#zone7 {
+    width: 90px;
+    height: 270px;
+    background-color: gray;
+    border: 3px solid black;
+    border-radius: 15px;
+    position: absolute;
+    top: 150px;
+    right: 0px;
+}
+#zone8 {
+    width: 90px;
+    height: 270px;
+    background-color: gray;
+    border: 3px solid black;
+    border-radius: 15px;
+    position: absolute;
+    top: 150px;
+    left: 0px;
+}
+#zone9 {
+    width: 270px;
+    height: 90px;
+    background-color: gray;
+    border: 3px solid black;
+    border-radius: 15px;
+    position: absolute;
+    bottom: 0px;
+    left: 450px;
+}
